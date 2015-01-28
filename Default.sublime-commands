@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Misc4ST: Unindent Xml",
+        "command": "misc_main", "args": {"source" : "commands", "cmd_line" : "unindent_xml"}
+    }
+]

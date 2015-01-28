@@ -1,0 +1,3 @@
+[
+	{"keys": ["super+shift+x", "super+shift+i"], "command": "misc_main", "args": {"source" : "hotkey", "inplace" : "no"}},
+]
